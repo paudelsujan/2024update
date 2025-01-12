@@ -1,27 +1,28 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "MY WEB SITE"
+  title: "2024 CCCM Cluster Update"
+  back-to-top-navigation: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: Projects
     tools:
       - icon: twitter
         href: https://twitter.com/
       - icon: github
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    right: "CCCM Cluster Somalia [Quarto](https://cccmcluster.org/)"
 
 format:
   html:
-    theme: cerulean
+    theme: cosmo
     toc: true
+    css: styles.css # Link to your custom CSS file
 
 editor: source
-

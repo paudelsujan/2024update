@@ -1,19 +1,31 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
-  image: img/profile.png
+title: "About CCCM Cluster Somalia"
 ---
 
-:::{#me}
+<!-- Add the logo with inline CSS for resizing -->
+<img src="img/CCCMCluster_Somalia.png" alt="CCCM Cluster Somalia Logo" style="position: fixed; top: 80px; left: 20px; width: 100px; height: auto;">
 
-## Goals
+## Welcome to the 2024 CCCM Cluster Update
+
+This is the home page for updates related to CCCM Cluster Somalia. The navigation bar at the top provides quick access to different sections.
+
+### Capacity Building
+
+The Monthly Narrative Reporting consolidates data and information from all existing tools, not just the monthly reporting template.  
+As you noted, submissions via the Kobo tool have been limited, with only PSA and IRW contributing data in recent months. This data/inputs received through the Monthly Reporting Tool (Kobo) alone is insufficient to produce the comprehensive reports currently being generated.
+
+Oscar has been compiling and sharing all quantitative information from various sources, including the Excel 4W submissions shared by partners, with the coordinators. Moreover, I have emphasized to the cluster team that IOM has consistently submitted monthly updates for all its activities through the Excel 4W/monthly reporting format since April, a submission that Oscar is also recipient of.
+## Welcome to the 2024 CCCM Cluster Update
+
+This is the home page for updates related to CCCM Cluster Somalia. The navigation bar at the top provides quick access to different sections.
+
+### Capacity Building
+
+The Monthly Narrative Reporting consolidates data and information from all existing tools, not just the monthly reporting template.  
+As you noted, submissions via the Kobo tool have been limited, with only PSA and IRW contributing data in recent months. This data/inputs received through the Monthly Reporting Tool (Kobo) alone is insufficient to produce the comprehensive reports currently being generated.
+
+Oscar has been compiling and sharing all quantitative information from various sources, including the Excel 4W submissions shared by partners, with the coordinators. Moreover, I have emphasized to the cluster team that IOM has consistently submitted monthly updates for all its activities through the Excel 4W/monthly reporting format since April, a submission that Oscar is also recipient of.
 
 ## Education
 
 ## Experience
-
-:::
-
-Thanks for checking out my web site!
