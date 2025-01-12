@@ -10,6 +10,6 @@
 
 /* Add padding to avoid overlapping the image */
 main {
-  margin-top: 100px; /* Add margin to push content down */
+  margin-top: 20px; /* Add margin to push content down */
   padding: 20 0px;
 }
